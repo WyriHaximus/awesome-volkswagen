@@ -9,3 +9,4 @@ A curated list of amazingly awesome Volkswagen CI test result manipulation libra
 * [volkswagen](https://github.com/repeatedly/d-volkswagen) - D - Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Volkswagen for Xcode](https://github.com/cezheng/Volkswagen-Xcode) - Xcode - Volkswagen for Xcode makes failing test cases pass in CI servers.
 * [Arquillian Volkswagen](https://github.com/aslakknutsen/arquillian-volkswagen) - Java - Make any test suite fly green in a second! Always!
+* [volkswagencpp](https://github.com/elnormous/volkswagencpp) - C++ - Volkswagen C++ makes your tests pass when run on a CI server.
